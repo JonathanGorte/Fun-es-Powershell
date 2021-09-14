@@ -1,3 +1,4 @@
+**[ENGLISH](https://github.com/JonathanGorte/Functions-Powershell/blob/main/README-EN.md)**
 # Funções Powershell
 Apenas algumas funções que fiz para uso pessoal, em geral são para processamento de arquivos.\
 Recomendo adicionar as funções em um dos perfis.\
